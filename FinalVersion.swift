@@ -2,8 +2,6 @@
 
 import UIKit
 
-
-
 let stuName = ["jack", "jain", "hana", "john", "steve", "bill"]  //변경 불가한 상수
 
 var jack_stuGrade = ["data_structure": 85, "algorithm": 76, "database": 42, "operating_system": 83]
